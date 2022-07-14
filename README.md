@@ -1,5 +1,6 @@
 # toy-AES
-This is a rudimentary AES implementation in C++. It shows my understanding of the AES paradigm and the different encryption sections could be substituted for more sophisticated algorithms.<br>
+About
+This is a rudimentary AES implementation in C++ and the different encryption sections could be substituted for more sophisticated algorithms. As it stands, this implementation is to test my understanding of the AES components and is not at all secure.<br>
 
 This project was completed as an assignment in my cybersecurity course on November 12, 2021. I also used skills I learned from my cryptography course.
 
